@@ -71,6 +71,7 @@ Display skills in categories:
 - Email copy
 - Landing page copy
 
+
 Use:
 - Skill cards or progress bars
 
